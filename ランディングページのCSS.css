@@ -1,0 +1,76 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .container {
+    text-align: left;
+  }
+  
+  h1 {
+    font-size: 98px;
+    text-align: left;
+  }
+  
+  h1 .teal {
+     color: #00FFFF; /* ティール色 */
+     text-align: left;
+  }
+  .container {
+    text-align: center;
+    width: 80%;
+  }
+  
+  h1 {
+    font-size: 48px;
+  }
+  
+  h1 .teal {
+     color: #00FFFF; /* ティール色 */
+  }
+  
+  .credit {
+     text-align: right; 
+     font-size: 20px; 
+  }
+  
+  .toc {
+    background-color: #333;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 8px;
+  }
+  
+  .toc h2 {
+    margin-top: 0;
+  }
+  
+  .toc ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .toc ul li {
+    margin: 10px 0;
+  }
+  
+  .toc ul li a {
+    color: #39b5b5;
+    text-decoration: none;
+    font-size:25px;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  .toc ul li a:hover {
+    text-decoration: underline;
+  }
+  
+  #section1, #section2, #section3 {
+    margin: 40px 0;
+  } 
