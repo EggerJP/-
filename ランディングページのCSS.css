@@ -19,7 +19,7 @@ body {
   }
   
   h1 .teal {
-     color: #00FFFF; /* ティール色 */
+     color: #00FFFF;
      text-align: left;
   }
   .container {
@@ -32,7 +32,7 @@ body {
   }
   
   h1 .teal {
-     color: #00FFFF; /* ティール色 */
+     color: #00FFFF; 
   }
   
   .credit {
